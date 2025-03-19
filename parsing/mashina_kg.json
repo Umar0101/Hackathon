@@ -1,0 +1,570 @@
+[
+  {
+    "Легковые авто": [
+      {
+        "№": 1,
+        "Название": "EXEED VX · 2023",
+        "Цена": "2 573 700 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/3/3/c3310629f04a2580c383546fa287a238_240x180.jpg"
+      },
+      {
+        "№": 2,
+        "Название": "BMW 5 серии · 2019",
+        "Цена": "2 144 750 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//d/f/2/df24dd30648928b0ebf29588109b0ad7_240x180.jpg"
+      },
+      {
+        "№": 3,
+        "Название": "Kia Sorento · 2021",
+        "Цена": "1 535 641 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//7/e/2/7e227f9976ef9f0fecaefdce98523fe4_240x180.jpg"
+      },
+      {
+        "№": 4,
+        "Название": "BMW X5 · 2019",
+        "Цена": "4 461 080 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//9/c/c/9cc95db89991fd47c33a16b82865fb72_240x180.jpg"
+      },
+      {
+        "№": 5,
+        "Название": "BMW X5 · 2023",
+        "Цена": "4 032 130 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/2/7/c2799195b3d00a0da4042415e0d7adb4_240x180.jpg"
+      },
+      {
+        "№": 6,
+        "Название": "Mercedes-Benz GLC · 2024",
+        "Цена": "3 260 020 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//a/a/9/aa9694f35a03bbfdba1f32ac9f590127_240x180.jpg"
+      },
+      {
+        "№": 7,
+        "Название": "Geely Atlas · 2025",
+        "Цена": "1 775 853 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//0/7/1/071522b18b6d73674bf7dc34b9c1ecd4_240x180.jpg"
+      },
+      {
+        "№": 8,
+        "Название": "BMW X7 · 2019",
+        "Цена": "4 932 925 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//d/8/a/d8ab9ec1c99095aab696a3eeca411b89_240x180.jpg"
+      },
+      {
+        "№": 9,
+        "Название": "Chevrolet Monza · 2024",
+        "Цена": "1 286 850 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//6/6/b/66b86ba47cb12b5a122c5f17509107f6_240x180.jpg"
+      },
+      {
+        "№": 10,
+        "Название": "BMW X5 · 2008",
+        "Цена": "900 795 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//a/e/6/ae6c9c763068f13b0d5fc0a2c21165e1_240x180.jpg"
+      },
+      {
+        "№": 11,
+        "Название": "BMW X7 · 2019",
+        "Цена": "5 061 610 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//b/f/1/bf1169eb08a9c2a81131a2b1efac577b_240x180.jpg"
+      },
+      {
+        "№": 12,
+        "Название": "BMW X5 · 2018",
+        "Цена": "3 302 915 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//9/0/9/9093ce5a72e445ee247acfd25522c806_240x180.jpg"
+      },
+      {
+        "№": 13,
+        "Название": "Toyota Camry · 2019",
+        "Цена": "1 870 222 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//4/c/d/4cd4bb43cf08267277fc5cd815c0beec_240x180.jpg"
+      },
+      {
+        "№": 14,
+        "Название": "BMW 7 серии · 2001",
+        "Цена": "686 320 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//9/a/2/9a2369f88fdcf1fb54374701342790f5_240x180.jpg"
+      },
+      {
+        "№": 15,
+        "Название": "BMW 3 серии · 2018",
+        "Цена": "1 887 380 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//d/b/3/db30d36840c093d1dd683280a1c8ab1a_240x180.jpg"
+      },
+      {
+        "№": 16,
+        "Название": "Toyota Camry · 2022",
+        "Цена": "2 316 330 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/3/1/c310df6d45ea84df1c4693069c63fa43_240x180.jpg"
+      },
+      {
+        "№": 17,
+        "Название": "Kia Quoris · 2014",
+        "Цена": "1 715 800 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//3/a/5/3a50e9fa93891dcffe0e892408348854_240x180.jpg"
+      },
+      {
+        "№": 18,
+        "Название": "Mercedes-Benz G-Класс AMG · 2024",
+        "Цена": "18 015 900 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/4/7/84771a17df0a97003fa9ba9a0f92779a_240x180.jpg"
+      },
+      {
+        "№": 19,
+        "Название": "BMW X5 M · 2021",
+        "Цена": "9 436 900 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//5/9/9/599e15a28b2704d350cbf828ddfc635b_240x180.jpg"
+      },
+      {
+        "№": 20,
+        "Название": "Hyundai Palisade · 2023",
+        "Цена": "3 302 915 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//4/e/1/4e1c20dc3c817691230e55863a1fd90d_240x180.jpg"
+      },
+      {
+        "№": 21,
+        "Название": "Kia Carnival · 2022",
+        "Цена": "2 016 065 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/c/e/cce6c8a49c2bb0e8d4faa86571bfa0fb_240x180.jpg"
+      },
+      {
+        "№": 22,
+        "Название": "Toyota Camry · 2019",
+        "Цена": "1 587 115 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//5/8/c/58c0376e00a0a0fc5d00ae6edea5b5a7_240x180.jpg"
+      },
+      {
+        "№": 23,
+        "Название": "Toyota Camry · 2019",
+        "Цена": "1 475 588 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//1/e/f/1ef364395a6068f0a5a87e6785a496ed_240x180.jpg"
+      },
+      {
+        "№": 24,
+        "Название": "Lexus ES · 2017",
+        "Цена": "2 187 645 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//b/b/f/bbfdd634933bf9d301700c86bbf58af4_240x180.jpg"
+      }
+    ]
+  },
+  {
+    "Коммерческие авто": [
+      {
+        "№": 1,
+        "Название": "Schmitz Cargobull - SKO · 2005",
+        "Цена": "1 844 485 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/1/8/c183a1d91bad23200d8ec797e14e446d_240x180.jpg"
+      },
+      {
+        "№": 2,
+        "Название": "Kogel - SV24 · 2015",
+        "Цена": "1 243 955 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//4/5/4/4543293f18c61e5bf3ad6631d7d0546a_240x180.jpg"
+      },
+      {
+        "№": 3,
+        "Название": "Hyundai - Porter · 2020",
+        "Цена": "1 243 955 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//b/8/e/b8e7251dc4a7ff5cda35255107a70701_240x180.jpg"
+      },
+      {
+        "№": 4,
+        "Название": "Mercedes-Benz - Sprinter · 2003",
+        "Цена": "1 029 480 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//5/e/d/5ed4578f246bdebc57fb54a58203d466_240x180.jpg"
+      },
+      {
+        "№": 5,
+        "Название": "Mercedes-Benz - Sprinter · 2007",
+        "Цена": "1 714 942 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//9/2/5/9250835c37dfc4644d721657c07d082f_240x180.jpg"
+      },
+      {
+        "№": 6,
+        "Название": "Volkswagen - LT · 2004",
+        "Цена": "1 115 270 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//f/7/a/f7a22244e3cc2650756dd200263ba7c8_240x180.jpg"
+      },
+      {
+        "№": 7,
+        "Название": "Mercedes-Benz - Sprinter · 2006",
+        "Цена": "1 630 010 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//9/1/d/91db92bff25f8cc4d8c6e6e02c835c12_240x180.jpg"
+      },
+      {
+        "№": 8,
+        "Название": "Mercedes-Benz - Sprinter · 2008",
+        "Цена": "1 415 535 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/c/8/8c85a1b19814e6352861556706029da7_240x180.jpg"
+      },
+      {
+        "№": 9,
+        "Название": "Mercedes-Benz - Sprinter · 2008",
+        "Цена": "1 286 850 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/8/8/888e6fd7ac17dca9bee178d3e6b3b886_240x180.jpg"
+      },
+      {
+        "№": 10,
+        "Название": "Mercedes-Benz - Sprinter · 2018",
+        "Цена": "1 587 115 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//a/b/8/ab8c7662d53492df150ea7119ebf0310_240x180.jpg"
+      },
+      {
+        "№": 11,
+        "Название": "Kogel - SW24 · 2006",
+        "Цена": "1 630 010 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//2/f/d/2fd6790fa58243df6a6fe16fd3a2619b_240x180.jpg"
+      },
+      {
+        "№": 12,
+        "Название": "Renault - Magnum · 2009",
+        "Цена": "2 144 750 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//f/8/7/f8770c7d458dcbb343f8e92a9e1137ac_240x180.jpg"
+      },
+      {
+        "№": 13,
+        "Название": "Renault - Premium · 2012",
+        "Цена": "2 831 070 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//b/f/a/bfacfe34b4e27b54f2881f3f4e2568e4_240x180.jpg"
+      },
+      {
+        "№": 14,
+        "Название": "Mercedes-Benz - Sprinter · 2000",
+        "Цена": "1 269 692 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//a/d/b/adbdd29a3949bf7606d78fab51a6c2b5_240x180.jpg"
+      },
+      {
+        "№": 15,
+        "Название": "Schmitz Cargobull - SKO · 2018",
+        "Цена": "3 431 600 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//1/e/6/1e643983c67e95bcaa1051bed74b16f9_240x180.jpg"
+      },
+      {
+        "№": 16,
+        "Название": "Mercedes-Benz - Atego · 2003",
+        "Цена": "1 956 012 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/f/3/cf30ee6a55298e502d6cc0c265976395_240x180.jpg"
+      },
+      {
+        "№": 17,
+        "Название": "Mercedes-Benz - Atego · 2007",
+        "Цена": "2 487 910 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/2/d/c2de4fc55b2e740dc1e02baa40143902_240x180.jpg"
+      },
+      {
+        "№": 18,
+        "Название": "Volvo - FH · 2013",
+        "Цена": "5 404 770 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//6/4/0/6407e92cd0a8df24fae0c50815d61043_240x180.jpg"
+      }
+    ]
+  },
+  {
+    "Спецтехники": [
+      {
+        "№": 1,
+        "Название": "Hyundai - Колесные · 2025",
+        "Цена": "4 272 342 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//9/0/6/9064448df6694d7a1fe1e27f25c06c2e_240x180.jpg"
+      },
+      {
+        "№": 2,
+        "Название": "Mercedes-Benz - Автобетононасос · 2017",
+        "Цена": "13 726 400 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//7/0/e/70eb3425098d22daca91be14c0520078_240x180.jpg"
+      },
+      {
+        "№": 3,
+        "Название": "Hyundai - Автовышки · 2016",
+        "Цена": "2 702 385 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//9/7/7/977d4f6684333cf3a89ab68025e8a55e_240x180.jpg"
+      },
+      {
+        "№": 4,
+        "Название": "Hyundai - Колесные · 2015",
+        "Цена": "6 005 300 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//5/2/7/527a56702307e6990267ae589e0cff53_240x180.jpg"
+      },
+      {
+        "№": 5,
+        "Название": "Hyundai - Колесные · 2023",
+        "Цена": "9 265 320 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/d/6/8d63e954bcd73a28c9b5803a81269ff1_240x180.jpg"
+      },
+      {
+        "№": 6,
+        "Название": "Sunward - SWE · 2015",
+        "Цена": "3 002 650 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//2/5/b/25bbd2e5a3722c9838b0130df3cc8307_240x180.jpg"
+      },
+      {
+        "№": 7,
+        "Название": "Shantui  - SE · 2021",
+        "Цена": "7 292 150 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//1/9/1/1913f7bd8825d48e4148ec06a46cd870_240x180.jpg"
+      },
+      {
+        "№": 8,
+        "Название": "Shantui - SF · 2024",
+        "Цена": "2 659 490 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//b/a/f/baf7fc0b01d19cc8a1a0a7e5ab4d8ef8_240x180.jpg"
+      },
+      {
+        "№": 9,
+        "Название": "Sunward - SWE · 2023",
+        "Цена": "10 723 750 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//d/1/6/d16477d0da906457a3f52252fca61ad9_240x180.jpg"
+      },
+      {
+        "№": 10,
+        "Название": "Shantui - SD · 2024",
+        "Цена": "6 863 200 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//b/e/2/be25ec17f9ee3b8be6512518b7ce5c00_240x180.jpg"
+      },
+      {
+        "№": 11,
+        "Название": "Shantui - SF · 2024",
+        "Цена": "4 289 414 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/9/4/8944ec543c61c1a020bd4559f4ebcebb_240x180.jpg"
+      },
+      {
+        "№": 12,
+        "Название": "Агромашхолдинг - 50ТК · 2010",
+        "Цена": "320 000 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/a/0/8a00b861dc537c75b63401f20a6ac2ac_240x180.jpg"
+      }
+    ]
+  },
+  {
+    "Запчасти": [
+      {
+        "№": 1,
+        "Название": "Шины летние, SUMITOMO, Made in Japan",
+        "Цена": "50 000 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/e/2/8e2273a8437a80fc78f3c16639e5db83_240x180.jpg"
+      },
+      {
+        "№": 2,
+        "Название": "Шины Michelin 235/45 R18",
+        "Цена": "60 000 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//d/f/0/df00f179f9e2aa3d23489f753298bd83_240x180.jpg"
+      },
+      {
+        "№": 3,
+        "Название": "Датчик температуры двигателя 4-конт зеленый (узкие клеммы) Meyle 1009190017",
+        "Цена": "685 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//4/d/e/4deacce3e30737bf5e64507877eca945_240x180.jpg"
+      },
+      {
+        "№": 4,
+        "Название": "Коса ДВС, E39, 12517503594",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//3/1/a/31a3a33385be39838631d5c93be0ee35_240x180.jpg"
+      },
+      {
+        "№": 5,
+        "Название": "Привод Y11",
+        "Цена": "3 230 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//6/f/b/6fba341edcbf0c4d979496803421bf52_240x180.jpg"
+      },
+      {
+        "№": 6,
+        "Название": "Зеркало боковое YF",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/8/d/88d0dc99abdd7ee6f9e82256759e55d7_240x180.jpg"
+      },
+      {
+        "№": 7,
+        "Название": "Акпп gxe10",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//4/7/f/47ff50ff70579c47dddbcf96e127e503_240x180.jpg"
+      },
+      {
+        "№": 8,
+        "Название": "Датчик температуры двигателя 3-конт серый Meyle 1009190010",
+        "Цена": "1 095 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//a/6/8/a680dacebbb311a468aa9b8dadfc8618_240x180.jpg"
+      },
+      {
+        "№": 9,
+        "Название": "Коса ДВС, E60, 12517557836",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//6/9/5/695b802c0c2997f5599873a3409d4af0_240x180.jpg"
+      },
+      {
+        "№": 10,
+        "Название": "Блок управления двс PC24",
+        "Цена": "2 000 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/0/e/c0e07216af157a252ac619728cfe731b_240x180.jpg"
+      },
+      {
+        "№": 11,
+        "Название": "Зеркало боковое EF",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//0/7/2/07266ed8207cb942077b70fd119de0ce_240x180.jpg"
+      },
+      {
+        "№": 12,
+        "Название": "Планка радиатора NCP60",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//9/c/a/9cae6923c002a296634598b03ed70884_240x180.jpg"
+      }
+    ]
+  },
+  {
+    "Услуги": [
+      {
+        "№": 1,
+        "Название": "Вскрытие авто Чип ключи для авто Бишкек",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//f/5/0/f507d278b40631b846afff57482dacef_240x180service.jpg"
+      },
+      {
+        "№": 2,
+        "Название": "Услуга эвакуатор Бишкек",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//6/a/9/6a9c4765dc008bc1bf7eb804531471fc_240x180service.jpg"
+      },
+      {
+        "№": 3,
+        "Название": "Автошпаrлевка POLIKOR Поликор",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//b/f/a/bfa4f485b6e7bb0ac48930a83886da01_240x180service.jpg"
+      },
+      {
+        "№": 4,
+        "Название": "ЭВАКУАТОР 24/7 Круглосуточно",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//1/7/e/17e3ed5a8a6ff0913cf13438e84e83bc_240x180service.jpg"
+      },
+      {
+        "№": 5,
+        "Название": "Эвекуатор 24/ 7",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//5/7/5/57583e3ac7a251b752ac85ec670fb39d_240x180service.jpg"
+      },
+      {
+        "№": 6,
+        "Название": "Услуги эвакуатора 24/7",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//c/c/6/cc62c3a83bb46772eedfdb6347133c56_240x180service.jpg"
+      },
+      {
+        "№": 7,
+        "Название": "Ремонт и изготовление глушителей",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//a/9/0/a90cdf090f85f441913e8777c720e085_240x180service.jpg"
+      },
+      {
+        "№": 8,
+        "Название": "Полировка кузова",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//e/e/5/ee5f6ef8c31e159b06b42a408807b3e9_240x180service.jpg"
+      },
+      {
+        "№": 9,
+        "Название": "Эвакуатор Балыкчы 0 501 51 51 53",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//a/6/d/a6dea1879d8df83291e9888545c4c324_240x180service.jpg"
+      },
+      {
+        "№": 10,
+        "Название": "Эвакуаторы, Эвакуаторы",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//4/0/f/40f862ccfe91a21f0b08f051993dd332_240x180service.jpg"
+      },
+      {
+        "№": 11,
+        "Название": "Изготовление дубликатов пультов китайских автосигн",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//c/a/d/cadcd9b896b7007882a2183b9081fb6f_240x180service.jpg"
+      },
+      {
+        "№": 12,
+        "Название": "Ремонт пультов автосигнализации в Бишкеке",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//e/6/0/e60f93697ab0e880f43c7a797e7e8325_240x180service.jpg"
+      }
+    ]
+  },
+  {
+    "Мото": [
+      {
+        "№": 1,
+        "Название": "Suzuki - SV 1000 · 2004",
+        "Цена": "334 581 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//0/5/8/0580f6275f2c0b1b685c9697d05cf8cf_240x180.jpg"
+      },
+      {
+        "№": 2,
+        "Название": "Yamaha - R · 2006",
+        "Цена": "471 845 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//8/f/2/8f29905c8226aa7f656422c73c78aa60_240x180.jpg"
+      },
+      {
+        "№": 3,
+        "Название": "Kawasaki - Vulcan · 2021",
+        "Цена": "643 425 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//6/4/2/64236731b3eef76f3b6c646526356434_240x180.jpg"
+      },
+      {
+        "№": 4,
+        "Название": "Lifan - LF150 · 2013",
+        "Цена": "80 000 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//a/3/1/a31c4b2cb655b022e98bfa022d5c1ae9_240x180.jpg"
+      },
+      {
+        "№": 5,
+        "Название": "BRP - Can-Am Outlander X MR 1000R · 2023",
+        "Цена": "2 230 540 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//c/7/5/c75954025898e7cf1958d0a3f0189eaf_240x180.jpg"
+      },
+      {
+        "№": 6,
+        "Название": "МВП - 500 · 2023",
+        "Цена": "1 973 170 с",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/images//6/a/c/6acb8bd7a671213b952bffa06aaaef2f_240x180.jpg"
+      }
+    ]
+  },
+  {
+    "Куплю": [
+      {
+        "№": 1,
+        "Название": "Срочный выкуп автомобилей",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//a/c/f/acf6e00eb25b140625ab801d4485880b_240x180service.jpg"
+      },
+      {
+        "№": 2,
+        "Название": "Куплю заднюю крышку багажника",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//f/9/9/f99656c107b13d4b846a448c301c62e6_240x180service.jpg"
+      },
+      {
+        "№": 3,
+        "Название": "Куплю тойота RAV 4",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//f/a/2/fa2135fab19f4876ab79755ecc21498e_240x180service.jpg"
+      },
+      {
+        "№": 4,
+        "Название": "Куплю Тойота RAV 4",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//6/0/5/605494d92d36d45c2691ad248811ed1e_240x180service.jpg"
+      },
+      {
+        "№": 5,
+        "Название": "Куплю Мицубиси в аварийном или не рабочем",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//1/c/6/1c67ba9b3b4af9a97272708bd00205cf_240x180service.jpg"
+      },
+      {
+        "№": 6,
+        "Название": "Куплю Дайхатсу териос . Дайхатсу Кид и Тойота Ками",
+        "Цена": "Договорная",
+        "Ссылка на фото": "https://im.mashina.kg/tachka/services//a/8/4/a844597eec182ff1ef3d82fbe644f44a_240x180service.jpg"
+      }
+    ]
+  }
+]
