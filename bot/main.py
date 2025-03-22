@@ -25,9 +25,7 @@ def news(message):
         vse_news = soup.find_all('div', class_="Tag--article")[:20]
         links = []
         photo_list = []
-        photo_list.clear()
         twelwe_news = []
-        twelwe_news.clear()
         count = 1
         for i in vse_news:
             news_name = i.find('a', class_="ArticleItem--name").text.strip()
@@ -37,7 +35,6 @@ def news(message):
             links.append(i.find('a').get('href'))
             twelwe_news.append(f'№ {count} \nВремя - {time} \n{news_name} \n{photo}')
             count += 1
-
         for news in twelwe_news:
             bot.send_message(message.chat.id, news)
             
@@ -47,12 +44,12 @@ def news(message):
         bot.send_message(message.chat.id, 'Не удалось получить информацию. Пожалуйста, попробуйте позже.')
 
 def nomer_news(message, links, twelwe_news, photo_list):
-    
+
     try:
         user_num = int(message.text)
         if user_num < 1 or user_num > 20:
             msg1 = bot.send_message(message.chat.id, 'Вы ввели несуществующий номер. Попробуйте снова ввести число от 1 до 20.')
-            bot.register_next_step_handler(msg1, nomer_news, links, twelwe_news)   
+            bot.register_next_step_handler(msg1, nomer_news, links, twelwe_news, photo_list)   
         elif user_num >= 1 and user_num <= 20:
             index = user_num - 1
             html = requests.get(links[index]).text
@@ -61,12 +58,12 @@ def nomer_news(message, links, twelwe_news, photo_list):
             bot.send_message(message.chat.id, f'{twelwe_news[index]}\n<b>Краткое описание</b>: {description}', parse_mode='html')
             photo = photo_list[index]
             bot.send_photo(message.chat.id, photo)
-            msg = bot.send_message(message.chat.id, 'Если хотите завершить, нажмите кнопку "Закрыть" \nЕсли хотите почитать другую новость, выберите (от 1 до 2)', reply_markup=keyboard)
+            msg = bot.send_message(message.chat.id, 'Если хотите завершить, нажмите кнопку "Закрыть" \nЕсли хотите почитать другую новость, выберите (от 1 до 20)', reply_markup=keyboard)
             bot.register_next_step_handler(msg, nomer_news, links, twelwe_news, photo_list)
     except:
         if message.text.lower() == 'закрыть':
             bot.send_message(message.chat.id, 'До свидания! Для запуска бота отправьте команду /start.', reply_markup=telebot.types.ReplyKeyboardRemove())
-
+        
     
 bot.polling(non_stop=True)
 
