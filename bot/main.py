@@ -12,7 +12,7 @@ keyboard.add(btn1)
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.send_message(message.chat.id, 'Вот последние 20 новостей')
+    bot.send_message(message.chat.id, 'Вот последние новости на данный момент')
     news(message)
 
 def news(message):
@@ -25,7 +25,7 @@ def news(message):
         vse_news = soup.find_all('div', class_="Tag--article")[:20]
         links = []
         photo_list = []
-        twelwe_news = []
+        twenty_news = []
         count = 1
         for i in vse_news:
             news_name = i.find('a', class_="ArticleItem--name").text.strip()
@@ -33,33 +33,37 @@ def news(message):
             time = i.find('div', class_="ArticleItem--time").text.strip()
             photo_list.append(photo)
             links.append(i.find('a').get('href'))
-            twelwe_news.append(f'№ {count} \nВремя - {time} \n{news_name} \n{photo}')
+            twenty_news.append(f'№ {count} \nВремя - {time} \n{news_name} \n{photo}')
             count += 1
-        for news in twelwe_news:
-            bot.send_message(message.chat.id, news)
-            
-        msg = bot.send_message(message.chat.id, 'Выберите какую новость, хотите почитать (выберите от 1 до 20)')
-        bot.register_next_step_handler(msg, nomer_news, links, twelwe_news, photo_list)
+
+        if len(twenty_news) == 0:
+            bot.send_message(message.chat.id, 'Извините, но на данный момент новостей нет.')
+        else:
+            for news in twenty_news:
+                bot.send_message(message.chat.id, news)
+            msg = bot.send_message(message.chat.id, f'Выберите номер новости, которую хотите прочитать (от 1 до {len(twenty_news)})')
+            bot.register_next_step_handler(msg, nomer_news, links, twenty_news, photo_list)
+
     except:
         bot.send_message(message.chat.id, 'Не удалось получить информацию. Пожалуйста, попробуйте позже.')
 
-def nomer_news(message, links, twelwe_news, photo_list):
+def nomer_news(message, links, twenty_news, photo_list):
 
     try:
         user_num = int(message.text)
-        if user_num < 1 or user_num > 20:
-            msg1 = bot.send_message(message.chat.id, 'Вы ввели несуществующий номер. Попробуйте снова ввести число от 1 до 20.')
-            bot.register_next_step_handler(msg1, nomer_news, links, twelwe_news, photo_list)   
-        elif user_num >= 1 and user_num <= 20:
+        if user_num < 1 or user_num > len(twenty_news):
+            msg1 = bot.send_message(message.chat.id, f'Вы ввели несуществующий номер. Попробуйте снова ввести число от 1 до {len(twenty_news)}.')
+            bot.register_next_step_handler(msg1, nomer_news, links, twenty_news, photo_list)   
+        elif user_num >= 1 and user_num <= len(twenty_news):
             index = user_num - 1
             html = requests.get(links[index]).text
             soup = bs(html, 'lxml')
             description = soup.find('div', class_="BbCode").find('p').text.strip()
-            bot.send_message(message.chat.id, f'{twelwe_news[index]}\n<b>Краткое описание</b>: {description}', parse_mode='html')
+            bot.send_message(message.chat.id, f'{twenty_news[index]}\n<b>Краткое описание</b>: {description}', parse_mode='html')
             photo = photo_list[index]
             bot.send_photo(message.chat.id, photo)
-            msg = bot.send_message(message.chat.id, 'Если хотите завершить, нажмите кнопку "Закрыть" \nЕсли хотите почитать другую новость, выберите (от 1 до 20)', reply_markup=keyboard)
-            bot.register_next_step_handler(msg, nomer_news, links, twelwe_news, photo_list)
+            msg = bot.send_message(message.chat.id, f'Если хотите завершить, нажмите кнопку "Закрыть" \nЕсли хотите прочитать другую новость, выберите (от 1 до {len(twenty_news)})', reply_markup=keyboard)
+            bot.register_next_step_handler(msg, nomer_news, links, twenty_news, photo_list)
     except:
         if message.text.lower() == 'закрыть':
             bot.send_message(message.chat.id, 'До свидания! Для запуска бота отправьте команду /start.', reply_markup=telebot.types.ReplyKeyboardRemove())
