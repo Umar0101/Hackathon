@@ -46,7 +46,7 @@ def news(message):
 
     except:
         bot.send_message(message.chat.id, 'Не удалось получить информацию. Пожалуйста, попробуйте позже.')
-
+#
 def nomer_news(message, links, twenty_news, photo_list):
 
     try:
